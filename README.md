@@ -1,2 +1,1 @@
-Ga naar de individuele Branch voor elke opdracht!
-UML ZIT IN DE DIRECTORIES
+Alles Is nu correct. De volledige code in de main met de correcte opdrachten.
